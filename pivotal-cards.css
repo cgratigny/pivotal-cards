@@ -304,3 +304,9 @@
 .white-backs .backs .card .side .footer {
 	background-color: #ffffff;
 }
+
+.backs
+{
+margin-top:10em !important;
+margin-left:1em !important;
+}
